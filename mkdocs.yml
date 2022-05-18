@@ -3,3 +3,6 @@ nav:
     - 'index.md'
 theme:
     name: material
+plugins:
+    - search
+    - mkdocstrings
